@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @magsdal3na
-- ⌨ I’m interested in building my own scambaiting websites and becoming a developer.
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 💞️ Still figuring things out, but I love hearing different opinions on my code!
+- ⌨ I’m in school for Computer Science with an emphasis in Software Engineering.
+- 🌱 I’m currently learning Java.
 - 📫 You can reach out to me on discord @magsdal3na.
 
 <!---
