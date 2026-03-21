@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magsdal3na
 - ⌨ I’m in school for Computer Science with an emphasis in Software Engineering.
-- 🌱 Currently delving into Python.
+- 🌱 Currently in a class focusing on C++.
 - 📫 You can reach out to me on discord @magsdal3na.
 
 <!---
