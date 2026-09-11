@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @magsdal3na
 - ⌨ I’m in school for Computer Science with an emphasis in Software Engineering.
-- 🌱 Recently finished my Discrete Mathematics class.
+- 🌱 Working on three self-paced classes on OS, SDLC, & physics.
+- 👾 End goal is to build programs and make video games.
 - 📫 You can reach out to me on discord @magsdal3na.
 
 <!---
